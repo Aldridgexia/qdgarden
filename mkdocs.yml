@@ -5,7 +5,12 @@ repo_name: Aldridgexia/qdgarden
 nav:
   - Home: index.md
   - CS:
-    - Database: database.md
+    - Database: cs/database.md
+    - Sorting: cs/sorting.md
+    - Python: cs/python.md
+  - Math:
+    - Linear Algebra: math/linear_algebra.md
+    - Probability: math/probability.md
 theme:
   name: material
   icon:
@@ -15,3 +20,7 @@ theme:
 plugins:
   - search
   - tags
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
