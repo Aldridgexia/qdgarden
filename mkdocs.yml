@@ -1,6 +1,7 @@
 site_name: QD Garden
 site_url: https://aldridgexia.github.io/qdgarden
 repo_url: https://github.com/Aldridgexia/qdgarden
+repo_name: Aldridgexia/qdgarden
 nav:
   - Home: index.md
   - CS:
@@ -8,7 +9,7 @@ nav:
 theme:
   name: material
   icon:
-    repos: fontawesome/brands/github
+    repo: fontawesome/brands/github
   features:
     - navigation.instant
 plugins:
