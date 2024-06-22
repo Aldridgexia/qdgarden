@@ -18,3 +18,5 @@ A3: consistency model states that there are 3 types of consistency:
 - eventual consistency: a specific form of weak consistency, with certain time, all reads eventually will have same update to date view
 
 Q4: what is optimistic lock and pessimistic lock?
+
+A4: optimistic lock does not acquire locks on data resources until the transaction is ready to commit. pessimistic lock acquires locks as soon as data resources are accessed.
