@@ -1,4 +1,5 @@
 site_name: QD Garden
+site_url: https://aldridgexia.github.io/qdgarden/
 nav:
   - Home: index.md
   - CS:
