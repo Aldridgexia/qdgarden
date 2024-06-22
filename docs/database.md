@@ -16,3 +16,5 @@ A3: consistency model states that there are 3 types of consistency:
 - strong consistency: all reads have same update to date view
 - weak consistency: some reads might see stale view
 - eventual consistency: a specific form of weak consistency, with certain time, all reads eventually will have same update to date view
+
+Q4: what is optimistic lock and pessimistic lock?
