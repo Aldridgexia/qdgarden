@@ -1,11 +1,14 @@
 site_name: QD Garden
-site_url: https://aldridgexia.github.io/qdgarden/
+site_url: https://aldridgexia.github.io/qdgarden
+repo_url: https://github.com/Aldridgexia/qdgarden
 nav:
   - Home: index.md
   - CS:
     - Database: database.md
 theme:
   name: material
+  icon:
+    repos: fontawesome/brands/github
   features:
     - navigation.instant
 plugins:
