@@ -24,3 +24,8 @@ Q4: what is optimistic lock and pessimistic lock?
 
 ??? success "A4"
     Optimistic lock does not acquire locks on data resources until the transaction is ready to commit. pessimistic lock acquires locks as soon as data resources are accessed.
+
+### reference
+
+- [Top 50 DBMS Interview Questions and Answers in 2024](https://www.simplilearn.com/dbms-interview-questions-and-answers-article)
+- [SQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/)
