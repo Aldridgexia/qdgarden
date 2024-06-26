@@ -16,14 +16,14 @@ Q3: What is consistency model?
 ??? success "A3"
     Consistency model states that there are 3 types of consistency:
 
-    - strong consistency: all reads have same update to date view
-    - weak consistency: some reads might see stale view
-    - eventual consistency: a specific form of weak consistency, with certain time, all reads eventually will have same update to date view
+    - strong consistency: all reads see same up to date data
+    - weak consistency: some reads might see stale data
+    - eventual consistency: a specific form of weak consistency, within certain time, all reads eventually will see same up to date data
 
 Q4: what is optimistic lock and pessimistic lock?
 
 ??? success "A4"
-    Optimistic lock does not acquire locks on data resources until the transaction is ready to commit. pessimistic lock acquires locks as soon as data resources are accessed.
+    Optimistic lock does not acquire locks on data resources until the transaction is ready to commit. Pessimistic lock acquires locks as soon as data resources are accessed.
 
 ### reference
 
