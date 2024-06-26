@@ -25,6 +25,17 @@ Q4: what is optimistic lock and pessimistic lock?
 ??? success "A4"
     Optimistic lock does not acquire locks on data resources until the transaction is ready to commit. Pessimistic lock acquires locks as soon as data resources are accessed.
 
+Q5: what is database index?
+
+??? success "A5"
+    A data structure that provides quick lookup of one or multiple columns in a table. There are two types of index:
+    
+    - unique vs non-unique index: whether identical key values are allowed
+    - clustered vs non-clustered index: wheter order of index is the same as order of rows
+        - one table can only have one clustered index but could have multiple non-clustered index
+        - query with non-clusterd index is slower than clustered index
+        - non-clustered index is a separate entity referencing original table
+
 ### reference
 
 - [Top 50 DBMS Interview Questions and Answers in 2024](https://www.simplilearn.com/dbms-interview-questions-and-answers-article)
