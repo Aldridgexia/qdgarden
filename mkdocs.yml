@@ -11,6 +11,7 @@ nav:
   - Math:
     - Linear Algebra: math/linear_algebra.md
     - Probability: math/probability.md
+  - Resources: resources.md
 theme:
   name: material
   icon:
