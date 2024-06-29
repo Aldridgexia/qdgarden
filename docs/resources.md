@@ -12,3 +12,6 @@ Below are a list of resources that I frequently reference to.
 ## Quant Interview
 - [A Practical Guide To Quantitative Finance Interviews](https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1735028800/): must read for quant interview questions
 - [Mathematics and statistics for financial risk Management](https://www.amazon.com/Mathematics-Statistics-Financial-Risk-Management/dp/1118750292/): great resource for practice questions (with solutions)
+
+## Misc
+- [Iris Series: Visualize Math -- From Arithmetic Basics to Machine Learning](https://github.com/Visualize-ML): in Chinese, 7 books covering math foundation to ML applications.
