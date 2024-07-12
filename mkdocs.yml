@@ -8,9 +8,12 @@ nav:
     - Database: cs/database.md
     - Sorting: cs/sorting.md
     - Python: cs/python.md
+    - OA Prep: cs/oa_prep.md
   - Math:
     - Linear Algebra: math/linear_algebra.md
     - Probability: math/probability.md
+  - Finance:
+    - CFA: finance/cfa.md
   - Resources: resources.md
 theme:
   name: material
