@@ -15,3 +15,8 @@ Below are a list of resources that I frequently reference to.
 
 ## Misc
 - [Iris Series: Visualize Math -- From Arithmetic Basics to Machine Learning](https://github.com/Visualize-ML): in Chinese, 7 books covering math foundation to ML applications.
+
+## Quant Books
+- [Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk](https://www.amazon.com/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826)
+- [Quantitative Equity Portfolio Management, Second Edition: An Active Approach to Portfolio Construction and Management](https://www.amazon.com/Quantitative-Equity-Portfolio-Management-Second/dp/1264268920)
+- [Quantitative Equity Portfolio Management: Modern Techniques and Applications](https://www.amazon.com/Quantitative-Equity-Portfolio-Management-Applications/dp/1584885580)
